@@ -11,6 +11,7 @@
     "url": "https://github.com/neil-lindquist/swank-client"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "paredit.js": "^0.3.6"
   },
   "devDependencies": {
